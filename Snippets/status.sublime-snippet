@@ -1,0 +1,7 @@
+<snippet>
+	<content>[ "\$status" -eq ${1:0} ]</content>
+	<tabTrigger>status</tabTrigger>
+	<scope>source.shell.bats</scope>
+</snippet>
+
+

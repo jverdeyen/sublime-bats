@@ -1,0 +1,6 @@
+<snippet>
+	<content>[ "\${lines[${1:0}]}" = "${2:some value}" ]</content>
+	<tabTrigger>line</tabTrigger>
+	<scope>source.shell.bats</scope>
+</snippet>
+
