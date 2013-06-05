@@ -6,7 +6,8 @@
       "description": "# Sublime Text 2 package for Bats tests.",
       "author": "jverdeyen",
       "homepage": "https://github.com/jverdeyen/sublime-bats",
-      "last_modified": "2013-06-06 14:20:00"
+      "last_modified": "2013-06-06 14:20:00",
+      "platforms" : "*"
     }
   ]
 }
